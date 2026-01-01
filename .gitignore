@@ -1,0 +1,8 @@
+/target
+
+.DS_Store
+cspell.json
+.claude
+.gemini
+
+
